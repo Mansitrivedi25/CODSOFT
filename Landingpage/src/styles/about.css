@@ -1,0 +1,50 @@
+ .about{
+    height:700px;
+
+    overflow: hidden;
+    background-color: rgb(241, 156, 156);
+ }
+ .container{
+margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+   
+   
+}
+img{
+    margin-top: 30px;
+    height: 500px;
+    margin-inline: 20px;
+    border-radius: 30%;
+}
+.right{
+    border: 2px solid black;
+    height: 500px;
+    padding: 12px;
+    margin: 12px;
+   
+}
+.right h1{
+    color: black;
+    font-size: 80px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.right p {
+    font-weight: bold;
+    font-size: 17px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.right .lines{
+    margin-top: 30px;
+    color: rgb(20, 23, 220);
+    font-size: 20px;
+}
+
+
+
